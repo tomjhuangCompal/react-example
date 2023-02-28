@@ -1,0 +1,7 @@
+.test {
+  border: 2px red solid;
+
+  & > div {
+    color: red;
+  }
+}
